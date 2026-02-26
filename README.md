@@ -146,3 +146,4 @@ pre-commit install
 ## References
 
 1. Yang, L., Wu, X., Praun, E., & Ma, X. (2009). Tree detection from aerial imagery. In Proceedings of the 17th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (pp. 131-137). ACM.
+Adala roa nijery fitaratra,  nijery ny voalohany dia niteny hoe efa hitako ity  olona ity, niteny ny iray hoe omeo ahy jereko hoe, hoy izy avy eo: zaho ihany lesy io a
